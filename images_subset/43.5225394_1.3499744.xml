@@ -1,1 +1,1 @@
-<annotation><filename>43.5225394_1.3499744.png</filename><size><width>512</width><height>512</height><depth>3</depth></size><object><name>2548</name><bndbox><xmin>212</xmin><ymin>255</ymin><xmax>299</xmax><ymax>228</ymax></bndbox></object></annotation>
+<annotation><filename>43.5225394_1.3499744.png</filename><size><width>512</width><height>512</height><depth>3</depth></size><object><name>pool</name><bndbox><xmin>212</xmin><ymin>255</ymin><xmax>299</xmax><ymax>228</ymax></bndbox></object></annotation>
