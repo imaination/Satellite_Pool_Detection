@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images_subset</folder>
+    <filename>43.5897628_1.4641781.png</filename>
+    <path>/Users/rurikoimai/Documents/GitHub/Satellite_Pool_Detection/images_subset/43.5897628_1.4641781.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pool</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>226</xmin>
+            <ymin>264</ymin>
+            <xmax>288</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+</annotation>
