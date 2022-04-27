@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mini_test</folder>
+    <filename>42.68114_2.7471165.png</filename>
+    <path>/Users/rurikoimai/Documents/GitHub/Satellite_Pool_Detection/mini_test/42.68114_2.7471165.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pool</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>719</ymin>
+            <xmax>630</xmax>
+            <ymax>468</ymax>
+        </bndbox>
+    </object>
+</annotation>
