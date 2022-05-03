@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00064.png</filename>
+	<path>/Users/rurikoimai/Desktop/pool/images/00064.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>203</ymin>
+			<xmax>302</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
